@@ -35,7 +35,4 @@ This is my first program in Java.
 - [Installing Java](https://java.com/en/download/help/index_installing.xml)
 - [Oracle Java Docs](https://java.com/en/download/faq/java_mac.xml) 
 - [Oracle: A Closer Look at the "Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
-<<<<<<< HEAD
 
-=======
->>>>>>> 9ec4c1481f44cead91a863d4a7087702c96de704
