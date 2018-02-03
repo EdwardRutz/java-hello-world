@@ -3,11 +3,9 @@
 This is my first program in Java.
 - See [Writing Your First Java Program, Hello World](java/java-hello-world.md) for step-by-step instructions.
 - This program runs in the console.
-<<<<<<< HEAD
 - Run the live [Hello World](http://tpcg.io/No64y7) app [here]( http://tpcg.io/No64y7). Click on the execute button to run and compile the code.
-=======
 - The [Hello World]( http://tpcg.io/No64y7) app is live, run it [here]( http://tpcg.io/No64y7)
->>>>>>> 9ec4c1481f44cead91a863d4a7087702c96de704
+
 
 
 ## DEPENDENCIES
