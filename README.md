@@ -18,7 +18,7 @@ This is my first program in Java.
     java HelloWorld
 ```
 <p align="center">
-  <img src="images/TIL.png">
+  <img src="hello-world.png">
 </p>
 
 ## REFERENCES
